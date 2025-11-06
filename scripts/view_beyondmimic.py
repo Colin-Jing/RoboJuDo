@@ -19,7 +19,7 @@ env_cfg = G1DummyEnvCfg(forward_kinematic=fk_cfg, odometry_type="DUMMY")
 env = DummyEnv(cfg_env=env_cfg)
 
 ctrl_cfg = G1BeyondmimicCtrlCfg(
-    motion_name="Box",
+    motion_name="breaking",
 )
 ctrl_cfg.motion_cfg.anchor_body_name = "pelvis"
 

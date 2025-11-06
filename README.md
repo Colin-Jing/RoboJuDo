@@ -1,3 +1,25 @@
+
+# Thomas Spin (G1) - BeyondMimic
+
+## Motion Data
+- **Path**: `assets/motions/g1/beyondmimic/breaking.npz`
+- **Visualization Command**:
+  ```bash
+  python scripts/view_beyondmimic.py
+  ```
+
+## Control Policy Model
+
+- **Path**: assets/models/g1/beyondmimic/breaking.onnx
+
+- **Sim2Sim Command**:
+  ```bash
+   python scripts/run_pipeline.py -c g1_beyondmimic
+  ```
+
+## Environment Setup
+Please refer to the sections below for environment configuration details and setup instructions.
+
 <div align="center">
 <h1>RoboJuDo 🤖</h1>
 

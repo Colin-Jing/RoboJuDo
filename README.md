@@ -1,6 +1,10 @@
 
 # Thomas Spin (G1) - BeyondMimic
 
+<div align="center">
+  <img src="docs/images/breaking.jpeg" alt="g1_breaking" width="50%">
+</div>
+
 ## Motion Data
 - **Path**: `assets/motions/g1/beyondmimic/breaking.npz`
 - **Visualization Command**:
